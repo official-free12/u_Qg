@@ -1,0 +1,6 @@
+# uu币h5抖音支付,京东话费系统。京东油卡
+
+【主要功能说明】<br>1、支付类型可包含支付宝和微信扫码、H5、当面付、uu币、扫码、YY币、京东话费，京东油卡<br>2、结算类型包含普通结算、手动结算;<br>3、支付轮询、IP限制等;<br>4、完整的账单统计;<br>5、文档分为在线文档和可下载文档压缩包;<br>作为第三方支付平台。该有的功能都有<br>系统后台多类型管理员、普通商户；对用的板块后台都不一样相关的数据统计齐全有效。<br>2020/9/26更新<br>example.com。<br>example.com。<br>example.com，微信登入。<br>example.com。<br>2020/09/27更新<br>example.com<br>2020/10/10更新<br>example.com<br>example.com、用户后台样式重写<br>example.com<br>example.com，调整为文档形式。<br>example.com<br>2020/11/02更新<br>example.com，去掉多余文件和无关调用<br>2020/11/10更新<br>example.com<br>example.com<br>example.com<br>example.com<br>2020/11/25更新<br>example.com<br>example.com<br>2024/1/26更新<br>example.com<br>example.com<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/CJHxM" style="color: red;">https://mega-file.org/CJHxM</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
